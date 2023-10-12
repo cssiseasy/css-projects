@@ -37,7 +37,7 @@ footer .content .top{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 .content .top .logo-details{
   color: #fff;
