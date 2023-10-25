@@ -34,9 +34,6 @@ footer .content{
   padding: 30px 40px 40px 40px;
 }
 footer .content .top{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   margin-bottom: 10px;
 }
 .content .top .logo-details{
