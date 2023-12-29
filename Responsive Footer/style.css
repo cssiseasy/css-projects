@@ -25,12 +25,7 @@ article{
 }
 footer .content{
   max-width: 1250px;
-  margin: auto;
-  padding: 30px 40px 40px 40px;
-}
-footer .content{
-  max-width: 1250px;
-  margin: auto;
+  margin: 0 auto;
   padding: 30px 40px 40px 40px;
 }
 footer .content .top{
@@ -122,7 +117,7 @@ footer .bottom-details{
 }
 footer .bottom-details .bottom_text{
   max-width: 1250px;
-  margin: auto;
+  margin: 0 auto;
   padding: 20px 40px;
   display: flex;
   justify-content: space-between;
